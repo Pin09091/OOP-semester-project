@@ -1,0 +1,12 @@
+The header,cpp and main files are included here, all you need to do is 
+
+Instalation
+1)install opencv
+2)create a system path for it
+3)put all the installed files in the same folder
+4)run the main file (it should generate a .exe which you can use whenever)
+
+Using the program
+1)put your hand over the two purple squares and press the "S" key to take a skin sample
+2)press "B" after moving your hand out of the camera frame
+3)enjoy
