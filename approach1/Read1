@@ -4,7 +4,7 @@ Instalation
 1)install opencv
 2)create a system path for it
 3)put all the installed files in the same folder
-4)run the main file (it should generate a .exe which you can use whenever)
+4)run the main file (h.cpp)(it should generate a .exe which you can use whenever)
 
 Using the program
 1)put your hand over the two purple squares and press the "S" key to take a skin sample
