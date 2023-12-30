@@ -1,0 +1,11 @@
+The third approach which uses a fairly simple python script to change the users volume
+
+Installing
+1)install opencv using pip
+2)if you dont have pip then look up a guide on how to install pip
+3)download and run the python script
+
+Using
+1)once the program runs it will take camera inputs to adjust the volume based off of the users hands
+2)once the required volume is achived press "spacebar" to set the volume and close the program
+
